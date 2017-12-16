@@ -1,6 +1,6 @@
-#Inventory Organizer
+# Inventory Organizer
 
-##Purpose
+## Purpose
 
 This program is designed for the purpose of organizing and optimizing storage space 
 for Starbucks store frozen inventory to help minizige overage of ordering that leads
@@ -10,7 +10,7 @@ This is not a tool to be used on its own put is a tool to be used in conjunction
 a connected system of other tools to aid the inventory and ordering issues faced by managers
 and supervisors in Starbucks Stores.
 
-##Design
+## Design
 Fridges for Frozen follow the same layout. Some models may vary but all are designed to store 
 boxes or frozen goods in a 2D manner becasue all boxes are the same depth as the fidges. 
 
@@ -24,7 +24,7 @@ of helper functions to perform the tasks of calculating ans storing items into
 the array indexs properly. Index.js is just the script that runs the program and currently
 generates a random order of objects.
 
-##Next
+## Next
 More helper functions created for the Store module such as query functions and sorting functions to 
 catagorize the inventory before storing it.
 
