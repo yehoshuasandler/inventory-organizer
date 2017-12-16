@@ -2,7 +2,7 @@
 
 ##Purpose
 
-This program is designed for the purpose of organizing and optimising storage space 
+This program is designed for the purpose of organizing and optimizing storage space 
 for Starbucks store frozen inventory to help minizige overage of ordering that leads
 to fod being stored in inapropriate places and leads to great quanitities of waste.
 
